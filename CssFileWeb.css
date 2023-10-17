@@ -1,0 +1,16 @@
+.parent{
+    border:4px dashed red;
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+}
+
+.child{
+    width: 50%;
+    padding:20px;
+    border:4px dashed green;
+    margin:auto;
+}
+
